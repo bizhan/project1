@@ -29,7 +29,7 @@ print(first_list.index(8))
 first_list.append(8)
 print(first_list.index(8, -1))
 #start and end of index
-print(first_list.index(5,5, 9))
+print(first_list.index(5,5, 9))#look for value of 5 between index 5-9
 
 #count: number of times x appears in the list
 print(first_list.count(5))
