@@ -31,4 +31,6 @@ print(full_name('bizhan', 'gholikhamseh'))
 #example of making keyword argument
 print(full_name(last= 'gholikhamseh', first='bizhan'))
 
+#documenting.  """ """
+#random.randint.__doc__
 
