@@ -1,6 +1,6 @@
 print('hello')
 #clear
-#empy out all the keys and values
+#empty out all the keys and values
 dct = dict(hello = "bizhan")
 print(dct)
 dct.clear()
