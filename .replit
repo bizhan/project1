@@ -1,3 +1,3 @@
 
-run="python oop/repr.py"
+run="python oop/inheritance.py"
 language="python3"
