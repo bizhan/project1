@@ -1,3 +1,3 @@
 
-run="python http/dad.py"
+run="python oop/oop.py"
 language="python3"
