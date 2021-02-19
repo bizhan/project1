@@ -1,3 +1,3 @@
 
-run="python oop/oop.py"
+run="python oop/repr.py"
 language="python3"
