@@ -1,3 +1,3 @@
 
-run="python oop/super_method.py"
+run="python iterator_generator/iterat.py"
 language="python3"
